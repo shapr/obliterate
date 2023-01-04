@@ -1,0 +1,2 @@
+# obliterate
+another obsidian attempt
